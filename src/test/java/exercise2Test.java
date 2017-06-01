@@ -1,6 +1,5 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
-import exercise2;
 public class exercise2Test {
 	
 	//Tri
